@@ -21,15 +21,7 @@ This hands-on project focuses on two major areas:
 
 ## 📂 Directory Structure
 
-holbertonschool-chatgpt-introduction/
-└── debugging/
-    ├── factorial.py
-    ├── print_arguments.py
-    ├── change_background.html
-    ├── mines.py
-    ├── factorial_recursive.py
-    ├── checkbook.py
-    └── tic.py
+<pre> ```markdown 📂 holbertonschool-chatgpt-introduction ├── 📁 debugging │ ├── factorial.py │ ├── print_arguments.py │ ├── change_background.html │ ├── mines.py │ ├── factorial_recursive.py │ ├── checkbook.py │ └── tic.py ``` </pre>
 
 
 ## 🚀 Tasks Completed
